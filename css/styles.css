@@ -1,0 +1,10 @@
+.landing {
+    background-image: url(/images/backgrounds/h_img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 20%;
+}
+
