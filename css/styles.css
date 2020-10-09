@@ -58,4 +58,21 @@
 .title{
     padding: 5px;
 }
+#portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 18%;
+    margin-right: 16%;
+    align-items: center;
+}
+.portfolio {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+}
+.col-md-3 img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
 
